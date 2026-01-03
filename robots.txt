@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://vihaan101.github.io/sitemap.xml
